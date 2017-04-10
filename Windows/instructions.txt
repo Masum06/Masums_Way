@@ -1,0 +1,5 @@
+Double click the 'setup.exe' file inside masumsway5 folder and install the keyboard layout.
+
+To change keyboard layout in windows:
+1. Windows + Space in Windows 8, 8.1, and 10
+2. Ctrl + Space in windows 7, XP and others.

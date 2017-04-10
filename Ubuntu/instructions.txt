@@ -1,0 +1,22 @@
+Best tutorial: http://people.uleth.ca/~daniel.odonnell/Blog/custom-keyboard-in-linuxx11
+
+SHORTCUT: (recommended)
+1. Open a terminal here
+2. sudo ./masums_way
+
+LONGCUT:
+1. Go to: /usr/share/X11/xkb/
+2.  Give paste permission:
+    a) Right click> Open terminal> sudo chmod 777 symbols rules
+3. Paste mh to symbols
+4. Paste evdev.xml to rules
+3. Go to: /usr/share/X11/rules/
+4. Replace endev.xml (may have to tweak some permissions with chmod)
+
+ACTIVATE:
+1. Press Settings wheel on the upper right corner
+2. System Settings
+3. Click on "Text Entry"Inline image 1
+4. Click on the plus "+" button, and add Masums_way from the list.
+5. Check the show layout in tray checkbox
+6. Reboot!

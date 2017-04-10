@@ -1,0 +1,4 @@
+sudo chmod 777 /usr/share/X11/xkb/symbols /usr/share/X11/xkb/rules /usr/share/X11/xkb/rules/evdev.xml
+cp mh /usr/share/X11/xkb/symbols/
+cp evdev.xml /usr/share/X11/xkb/rules/
+sudo chmod 666 /usr/share/X11/xkb/symbols /usr/share/X11/xkb/rules /usr/share/X11/xkb/rules/evdev.xml

@@ -1,0 +1,57 @@
+default  partial alphanumeric_keys modifier_keys
+xkb_symbols "basic" {
+
+    name[Group1]= "Masums_way (US)";
+
+    key <TLDE> {    [     asciitilde, grave     ]   };
+    key <AE01> {    [     1,    exclam      ]   };
+    key <AE02> {    [     2,    at      ]   };
+    key <AE03> {    [     3,    numbersign  ]   };
+    key <AE04> {    [     4,    dollar      ]   };
+    key <AE05> {    [     5,    percent     ]   };
+    key <AE06> {    [     6,    asciicircum ]   };
+    key <AE07> {    [     7,    ampersand   ]   };
+    key <AE08> {    [     8,    asterisk    ]   };
+    key <AE09> {    [     9,    bar ]   };
+    key <AE10> {    [     0,    apostrophe  ]   };
+    key <AE11> {    [     minus,    underscore  ]   };
+    key <AE12> {    [     equal,    plus        ]   };
+
+    key <AD01> {    [     f,    F       ]   };
+    key <AD02> {    [     w,    W       ]   };
+    key <AD03> {    [     y,    Y       ]   };
+    key <AD04> {    [     o,    O       ]   };
+    key <AD05> {    [     i,    I       ]   };
+    key <AD06> {    [     j,    J       ]   };
+    key <AD07> {    [     r,    R       ]   };
+    key <AD08> {    [     q,    Q       ]   };
+    key <AD09> {    [     k,    K       ]   };
+    key <AD10> {    [     p,    P       ]   };
+    key <AD11> {    [ braceleft,    bracketleft     ]   };
+    key <AD12> {    [ braceright,   bracketright    ]   };
+
+    key <AC01> {    [     b,    B       ]   };
+    key <AC02> {    [     d,    D       ]   };
+    key <AC03> {    [     e,    E       ]   };
+    key <AC04> {    [     a,    A       ]   };
+    key <AC05> {    [     u,    U       ]   };
+    key <AC06> {    [     h,    H       ]   };
+    key <AC07> {    [     s,    S       ]   };
+    key <AC08> {    [     t,    T       ]   };
+    key <AC09> {    [     g,    G       ]   };
+    key <AC10> {    [     l,    L       ]   };
+    key <AC11> {    [     comma,    quotedbl    ]   };
+
+    key <AB01> {    [     z,    Z       ]   };
+    key <AB02> {    [     x,    X       ]   };
+    key <AB03> {    [     c,    C       ]   };
+    key <AB04> {    [     v,    V       ]   };
+    key <AB05> {    [     period,   question    ]   };
+    key <AB06> {    [     n,    N       ]   };
+    key <AB07> {    [     m,    M       ]   };
+    key <AB08> {    [     parenleft,    less        ]   };
+    key <AB09> {    [     parenright,   greater     ]   };
+    key <AB10> {    [     semicolon,    colon   ]   };
+
+    key <BKSL> {    [     slash,         backslash  ]   };
+};
